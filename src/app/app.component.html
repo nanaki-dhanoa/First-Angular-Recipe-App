@@ -1,0 +1,9 @@
+<app-header (fontSelected)="selectedFont = $event"></app-header>
+
+<div class="container" [style]="{'font-family': selectedFont}">
+  <div class="row">
+    <div class="col-md-12">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

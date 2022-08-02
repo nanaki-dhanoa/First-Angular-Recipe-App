@@ -1,0 +1,16 @@
+div.textStart {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #444;
+    margin: 0;
+    padding: 0px 0px 6px 0px;
+    font-size: 500px;
+    line-height: 44px;
+    letter-spacing: -2px;
+    font-weight: bold;
+    padding: 10% 5%;
+}
+
+h1, .h1 {
+    font-size: 50px;
+}
