@@ -13,3 +13,7 @@ This Web App allows you to create a Recipe Index, where you can Index all your f
 I have also created a login page, to authenticate the user and display their corresponding recipes. 
 
 # Screenshots
+
+![chrome_XuJZxaLZaA](https://user-images.githubusercontent.com/68686571/208501821-3cb97263-a508-494b-885e-a08fb8373e17.png)
+
+![chrome_U4sx0ZZx6b](https://user-images.githubusercontent.com/68686571/208501934-23ad2821-74fc-4ff4-bfcf-9a789e6d3af3.png)
